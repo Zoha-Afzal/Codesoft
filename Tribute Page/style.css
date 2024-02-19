@@ -1,0 +1,55 @@
+
+  #title{
+    text-align: center;
+    text-shadow: rgba(5px, 5px, 10px, white); 
+    font-size: 8vh;
+  }
+
+
+
+body{
+  background-color: #50525194;
+  margin: 3%;
+}
+#img{
+  display: flex;
+  justify-content: center;
+}
+img{
+  
+  margin: 0%;
+  width : 25%;
+  border: 10px solid #08040194 ;
+  
+}
+ 
+
+h2{
+  text-align: center;
+  text-shadow: rgba(5px, 5px, 10px, white); 
+    font-size: 6vh;
+}
+#quote{
+  text-align: center;
+  text-shadow: rgba(5px, 5px, 10px, white); 
+    font-size: 4vh;
+
+}
+#tribute-data {
+  background-color: #08040194;
+  box-shadow: 20px 20px 20px #2c0f0194;
+  font-family: Georgia;
+  padding: 25px 25px;
+  margin: 15px;
+  margin-top: 50px;
+  
+}
+h1.title-Quaid {
+  font-size: 35px;
+  color: white;
+  text-align: center;
+  text-shadow: 5px 5px 10px black;
+}
+ul{
+  list-style-type: circle;
+}
